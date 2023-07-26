@@ -6,7 +6,7 @@ datasets:
 - code_search_net
 inference: false
 ---
-
+We have provided our model link in this [repository](https://pan.baidu.com/s/1Rvrd-s3FzmF9u1uZYjNd-A?pwd=mq18)
 # CodeT5 (base-sized model) 
 
 Pre-trained CodeT5 model. It was introduced in the paper [CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models
